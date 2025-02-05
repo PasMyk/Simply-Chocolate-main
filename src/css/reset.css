@@ -15,7 +15,6 @@ p:last-child {
 ul {
   margin: 0;
   padding: 0;
-  list-style: none;
 }
 
 a {
@@ -31,4 +30,14 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
 }
