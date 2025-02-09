@@ -960,7 +960,7 @@
 }
 
 .subscribe-modal-header {
-    background: url('../assets/subscribe-img.png');
+    background: url(/assets/subscribe-img.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 538px;
