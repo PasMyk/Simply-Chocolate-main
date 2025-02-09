@@ -138,7 +138,7 @@
 }
 
 .header-content {
-    background-image: url(../img/chocolate-bg-header-desktop.png);
+    background-image: url(/assets/chocolate-bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: 1136px;
     border-radius: 15px;
