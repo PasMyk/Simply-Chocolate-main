@@ -450,7 +450,7 @@
 }
 
 .new-chocolate {
-    background-image: url(../img/subcribe-desktop.png);
+    background-image: url(/assets/subcribe-desktop.png);
     padding: 72px 366px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -960,7 +960,7 @@
 }
 
 .subscribe-modal-header {
-    background-image: url(/assets/subscribe-img.png);
+    background: url('../img/subscribe-img.png');
     background-repeat: no-repeat;
     background-size: cover;
     width: 538px;
