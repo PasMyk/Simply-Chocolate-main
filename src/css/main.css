@@ -997,3 +997,7 @@
     bottom: var(--swiper-pagination-bottom, 15px);
     margin-top: 32px;
 }
+
+.circle {
+    display: none;
+}
