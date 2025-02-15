@@ -640,6 +640,7 @@
 
 .rectangle {
     fill: rgb(253, 146, 34);
+    display: none;
 }
 
 .ingredients-list {
